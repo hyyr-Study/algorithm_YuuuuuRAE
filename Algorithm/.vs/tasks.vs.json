@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-000(2750)",
+      "appliesTo": "Project1/000(2750).cpp",
+      "type": "launch"
+    }
+  ]
+}

@@ -14,7 +14,7 @@ int main() {
 	int sum = 0;
 
 	cin >> num_Count;
-	cin >> numbers;
+	cin >> numbers; 
 
 	for (int i = 0; i < numbers.length(); i++) {
 		sum += numbers[i] - '0';
